@@ -10,15 +10,23 @@ var app = new Vue({
                 headlineSecondLine: "Organized by University of Kelaniya",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/hackx.jpg",
+                bgImg: "img/hackx.jpg",
                 buttontext: "HackX 2018"
+            },
+            {
+                headlineFirstLine: "Hackoverflow Hackathon 2023",
+                headlineSecondLine: "Organized by BEST Erlangen",
+                sublineFirstLine: "Shanaka ",
+                sublineSecondLine: "Anuradha",
+                bgImg: "img/hackoverflow.jpg",
+                buttontext: "Hackoverflow 2023"
             },
             {
                 headlineFirstLine: "RealHack 2018 inter University Hackathon",
                 headlineSecondLine: "Organized by University of Kelaniya",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/realhack.jpg",
+                bgImg: "img/realhack.jpg",
                 buttontext: "RealHack 2018"
             },
             {
@@ -26,7 +34,7 @@ var app = new Vue({
                 headlineSecondLine: "eyeResscue Project",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/infotel.jpg",
+                bgImg: "img/infotel.jpg",
                 buttontext: "Infotel 2018"
             },
             {
@@ -34,7 +42,7 @@ var app = new Vue({
                 headlineSecondLine: "Volunteering",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/disruptasia.jpg",
+                bgImg: "img/disruptasia.jpg",
                 buttontext: "Disrupt Asia 2019"
             },
             {
@@ -42,7 +50,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by Mobitel",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/my4.jpg",
+                bgImg: "img/my4.jpg",
                 buttontext: "Nb IoT 2017"
             },
             {
@@ -50,7 +58,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by IESL",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/techno.jpg",
+                bgImg: "img/techno.jpg",
                 buttontext: "Techno 2017"
             },
             {
@@ -58,7 +66,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by UCSC",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/ihack.jpg",
+                bgImg: "img/ihack.jpg",
                 buttontext: "iHack 2017"
             },
             {
@@ -66,7 +74,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by UCSC",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "projects/jordan/img/cloudhack.jpg",
+                bgImg: "img/cloudhack.jpg",
                 buttontext: "CloudHack 2017"
             }
 

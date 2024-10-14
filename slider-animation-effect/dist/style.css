@@ -284,12 +284,11 @@ body ::-moz-selection {
 }
 .controls-button {
   cursor: pointer;
-  background-color: rgba(208, 206, 204, 0.32);
-  border: 0;
+  background-color: #555;  border: 0;
   padding: 1.6rem 2.2rem;
   flex-basis: 0;
   flex-grow: 1;
-  min-width: 15rem;
+  min-width: 13rem;
   transition: .25s ease-in-out;
   outline: 0;
 }

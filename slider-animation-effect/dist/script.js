@@ -5,30 +5,7 @@ var app = new Vue({
         isPreviousSlide: false,
         isFirstLoad: true,
         slides: [
-            {
-                headlineFirstLine: "Lorem",
-                headlineSecondLine: "Vitaer",
-                sublineFirstLine: "Nihil sub sole",
-                sublineSecondLine: "novum",
-                bgImg: "projects/jordan/img/hackx.jpg",
-                rectImg: "projects/jordan/img/hackx.jpg"
-            },
-            {
-                headlineFirstLine: "Nulla",
-                headlineSecondLine: "Auctor",
-                sublineFirstLine: "Il n'y a rien de neuf sous",
-                sublineSecondLine: "le soleil",
-                bgImg: "https://i.postimg.cc/Qx34VNXM/slide1.jpg",
-                rectImg: "https://i.postimg.cc/ryWZ8R2b/slide-rect1.jpg"
-            },
-            {
-                headlineFirstLine: "Nullam",
-                headlineSecondLine: "Ultricies",
-                sublineFirstLine: "Τίποτα καινούργιο κάτω από",
-                sublineSecondLine: "τον ήλιο",
-                bgImg: "https://i.postimg.cc/t4RBtrnQ/slide2.jpg",
-                rectImg: "https://i.postimg.cc/3JFLGMRF/slide-rect2.jpg"
-            }
+
         ]
     },
   mounted: function () {
