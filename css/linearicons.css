@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'Linearicons-Free';
-	src:url('projects/jordan/fonts/linearicons/web-font/fonts/Linearicons-Free.eot');
-	src:url('projects/jordan/fonts/linearicons/web-font/fonts/Linearicons-Free.eot') format('embedded-opentype'),
-		url('projects/jordan/fonts/linearicons/web-font/fonts/Linearicons-Free.woff') format('woff2'),
-		url('projects/jordan/fonts/linearicons/web-font/fonts/Linearicons-Free.woff') format('woff'),
-		url('projects/jordan/fonts/linearicons/web-font/fonts/Linearicons-Free.ttf') format('truetype'),
-		url('projects/jordan/fonts/linearicons/web-font/fonts/Linearicons-Free.svg') format('svg');
+	src:url('../fonts/linearicons/Linearicons-Free.eot');
+	src:url('../fonts/linearicons/Linearicons-Free.eot') format('embedded-opentype'),
+		url('../fonts/linearicons/Linearicons-Free.woff') format('woff2'),
+		url('../fonts/linearicons/Linearicons-Free.woff') format('woff'),
+		url('../fonts/linearicons/Linearicons-Free.ttf') format('truetype'),
+		url('../fonts/linearicons/Linearicons-Free.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

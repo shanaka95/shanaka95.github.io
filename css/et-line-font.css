@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'et-line';
-	src:url('projects/jordan/fonts/et-line-font/fonts/et-line.eot');
-	src:url('projects/jordan/fonts/et-line-font/projects/jordan/fonts/et-line-font/fonts/et-line.eot') format('embedded-opentype'),
-		url('projects/jordan/fonts/et-line-font/fonts/et-line.woff') format('woff'),
-		url('projects/jordan/fonts/et-line-font/fonts/et-line.ttf') format('truetype'),
-		url('projects/jordan/fonts/et-line-font/fonts/et-line.svg') format('svg');
+	src:url('../fonts/et-line-font/et-line.eot');
+	src:url('../fonts/et-line-font/et-line.eot') format('embedded-opentype'),
+		url('../fonts/et-line-font/et-line.woff') format('woff'),
+		url('../fonts/et-line-font/et-line.ttf') format('truetype'),
+		url('../fonts/et-line-font/et-line.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
