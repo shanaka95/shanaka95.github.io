@@ -10,7 +10,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by University of Kelaniya",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112862/hackx_vpuzcj.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/hackx_vpuzcj.jpg",
                 buttontext: "HackX 2018"
             },
             {
@@ -18,7 +18,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by BEST Erlangen",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/w_1920,q_auto,f_auto/portfolio/hackoverflow_nvdtm6.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/portfolio/hackoverflow_1_j6wq5l.jpg",
                 buttontext: "Hackoverflow 2023"
             },
             {
@@ -26,7 +26,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by University of Kelaniya",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112866/realhack_ewiku4.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/realhack_ewiku4.jpg",
                 buttontext: "RealHack 2018"
             },
             {
@@ -34,7 +34,7 @@ var app = new Vue({
                 headlineSecondLine: "eyeResscue Project",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112862/infotel_datwyx.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/infotel_datwyx.jpg",
                 buttontext: "Infotel 2018"
             },
             {
@@ -42,7 +42,7 @@ var app = new Vue({
                 headlineSecondLine: "Volunteering",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112861/disruptasia_kzl18s.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/disruptasia_kzl18s.jpg",
                 buttontext: "Disrupt Asia 2019"
             },
             {
@@ -50,7 +50,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by Mobitel",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112865/my4_oovcg5.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/my4_oovcg5.jpg",
                 buttontext: "Nb IoT 2017"
             },
             {
@@ -58,7 +58,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by IESL",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112868/techno_n1oun1.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/techno_n1oun1.jpg",
                 buttontext: "Techno 2017"
             },
             {
@@ -66,7 +66,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by UCSC",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112862/ihack_oenmyk.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/ihack_oenmyk.jpg",
                 buttontext: "iHack 2017"
             },
             {
@@ -74,7 +74,7 @@ var app = new Vue({
                 headlineSecondLine: "Organized by UCSC",
                 sublineFirstLine: "Shanaka ",
                 sublineSecondLine: "Anuradha",
-                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/v1729112860/cloudhack_c6dsi8.jpg",
+                bgImg: "https://res.cloudinary.com/dmaqtexrq/image/upload/c_scale,w_auto/f_auto/q_auto/cloudhack_c6dsi8.jpg",
                 buttontext: "CloudHack 2017"
             }
 
